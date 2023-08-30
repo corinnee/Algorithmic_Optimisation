@@ -33,8 +33,6 @@ Welcome to the Trading Strategies Optimization subrepository! This repository co
   ```
 3. Explore the source code and files provided to understand the implementation of trading strategy optimization using Genetic Algorithms.
 
-Sure, I'd be happy to explain how to run both the R script and the Java code provided in your repository.
-
 ## Running the R Script
 
 The R script `partA_technical_indicators.R` is used to calculate technical indicators and generate trading signals based on the data in the `Unilever.csv` file. Here's how you can run the R script:
