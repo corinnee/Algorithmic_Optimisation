@@ -25,13 +25,11 @@ Welcome to the Trading Strategies Optimization subrepository! This repository co
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/Trading-Strategies-Optimization.git
+   git clone https://github.com/corinnee/Financial_Modelling_and_Optimisation.git
    ```
-2. Navigate to the cloned repository:
-  ```bash
-  cd Trading-Strategies-Optimization
-  ```
-3. Explore the source code and files provided to understand the implementation of trading strategy optimization using Genetic Algorithms.
+2. Navigate to the Trading-Strategies-Optimization subdirectory within the cloned repository.
+   
+4. Explore the source code and files provided to understand the implementation of trading strategy optimization using Genetic Algorithms.
 
 ## Running the R Script
 
