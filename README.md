@@ -1,4 +1,4 @@
-# Astrophysics and Algorithmic Trading Optimization
+# algorithmic optimisation
 
 ## Table of Contents
 1. [Astrophysics](#astrophysics)
@@ -7,7 +7,6 @@
 ## Astrophysics
 
 ### Applications of Evolutionary Algorithms in Astrophysics
-- **Author**: Corinne Batho-Newton
 
 #### Abstract
 This document explores the application of evolutionary algorithms (EAs) in solving complex scheduling problems in astrophysics. Specifically, it discusses how EAs can efficiently schedule the target observations of telescopes, both ground-based observatories and space-based telescopes. The paper provides insights into candidate solutions, fitness functions, and the strengths and weaknesses of this approach.
@@ -19,8 +18,6 @@ This document explores the application of evolutionary algorithms (EAs) in solvi
 ## Algorithmic Trading Optimization
 
 ### Trading Strategies Optimization with Genetic Algorithms
-- **Author**: Corinne Batho-Newton
-- **Contact**: [cb830@kent.ac.uk](mailto:cb830@kent.ac.uk)
 
 #### Project Description
 This project focuses on optimizing trading strategies based on technical analysis using Genetic Algorithms. It involves the implementation of technical indicators and trading signals to optimize trading strategies for Unilever stock. The project comprises two parts: Part A involves implementing technical indicators in R, while Part B utilizes a Genetic Algorithm (GA) approach implemented in Java to optimize trading signals based on the technical indicators.
@@ -44,8 +41,4 @@ For the astrophysics project, you can review the full essay in Word format.
 
 ### Algorithmic Trading Optimization
 In the algorithmic trading optimization project, you can run the R script for Part A and compile and run the Java code for Part B to optimize trading strategies based on technical analysis.
-
----
-
-*Note: For questions or inquiries regarding these projects, please contact the author at [cb830@kent.ac.uk](mailto:cb830@kent.ac.uk).*
 
