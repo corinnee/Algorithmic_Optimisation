@@ -1,8 +1,47 @@
 # Trading Strategies Optimisation with Genetic Algorithms
 
-Welcome to the Trading Strategies Optimization subrepository! This repository contains code and files related to an assessment for the 'Computational Intelligence in Business Economics and Finance' module at UKC. The project is for optimising trading strategies based on technical analysis using Genetic Algorithms.
+Welcome to the Trading Strategies Optimization subrepository! This  contains code and files related to an assessment for the 'Computational Intelligence in Business Economics and Finance' module at UKC. The project is for optimising trading strategies based on technical analysis using Genetic Algorithms.
 
-## Contents
+## Table of Contents
+- [Project Description](#project-description)
+      - [Technologies/Tools Used](#technologies/tools-used)
+   - [Part A](#part-a-technical-indicators-in-r)
+   - [Part B](#part-b-ga)
+- [Files and Program Descriptions](#files-and-program-descriptions)
+- [Getting Started](#getting-started)
+- [Running the R Script](#running-the-r-script)
+- [Running the Java Code](#running-the-java-code)
+
+## Project Description
+
+This project involves implementing technical indicators and trading signals to optimize trading strategies for Unilever stock. The goal is to use various technical indicators to generate buy/sell signals and determine the optimal trading actions over a historical period.
+
+The project comprises two parts. Part A involves implementing technical indicators, including Exponential Moving Average (EMA), Trade Break Out Rule (TBR), Volatility (VOL), and Momentum (MOM), using R programming. Part B utilizes a Genetic Algorithm (GA) approach implemented in Java to optimize trading signals based on the technical indicators.
+
+#### Technologies/Tools Used:
+
+- R Programming: Used for Part A, implementing technical indicators and trading signal generation.
+- Java: Used for Part B, implementing the Genetic Algorithm optimization approach.
+- CSV File Handling: Data is loaded from CSV files containing historical stock data and technical indicator signals.
+- Genetic Algorithm: Implemented to optimize trading signal weights for improved performance.
+
+### Part A - Technical Indicators in R
+
+Technical indicators such as EMA, TBR, VOL, and MOM are calculated in R and added to the Unilever stock dataset.
+EMA and other indicators are calculated using custom functions.
+Trading signals are generated based on conditions derived from the technical indicators.
+
+### Part B - GA
+
+The GA approach aims to optimize trading signal weights using genetic operators.
+The population is initialized with randomly generated weight values for different technical indicators.
+The fitness function evaluates the profitability of trading based on the generated signals.
+Tournament selection is used to select parents for crossover and mutation.
+Crossover and mutation operators are applied to create new individuals with potential improved fitness.
+Elite individuals are automatically carried over to the next generation.
+The algorithm runs through multiple generations, optimizing trading strategies over time
+
+## Files and Program Descriptions
 
 - `cb830 Optimising Trading Strategies Based on Technical Analysis.pptx`: A PowerPoint presentation explaining the outcomes of the Genetic Algorithm-based trading strategies optimization.
 
