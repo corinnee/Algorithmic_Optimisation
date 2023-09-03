@@ -1,4 +1,4 @@
-# algorithmic optimisation
+# Algorithmic Optimisation
 
 ## Table of Contents
 1. [Astrophysics](#astrophysics)
