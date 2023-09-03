@@ -4,7 +4,6 @@ Welcome to the Trading Strategies Optimization subrepository! This  contains cod
 
 ## Table of Contents
 - [Project Description](#project-description)
-      - [Technologies/Tools Used](#technologies/tools-used)
    - [Part A](#part-a-technical-indicators-in-r)
    - [Part B](#part-b-ga)
 - [Files and Program Descriptions](#files-and-program-descriptions)
