@@ -8,7 +8,6 @@
 
 ### Applications of Evolutionary Algorithms in Astrophysics
 - **Author**: Corinne Batho-Newton
-- **Contact**: [cb830@kent.ac.uk](mailto:cb830@kent.ac.uk)
 
 #### Abstract
 This document explores the application of evolutionary algorithms (EAs) in solving complex scheduling problems in astrophysics. Specifically, it discusses how EAs can efficiently schedule the target observations of telescopes, both ground-based observatories and space-based telescopes. The paper provides insights into candidate solutions, fitness functions, and the strengths and weaknesses of this approach.
