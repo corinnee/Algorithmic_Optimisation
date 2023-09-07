@@ -1,19 +1,8 @@
 # Algorithmic Optimisation
 
 ## Table of Contents
-1. [Astrophysics](#astrophysics)
-2. [Algorithmic Trading Optimization](#algorithmic-trading-optimization)
-
-## Astrophysics
-
-### Applications of Evolutionary Algorithms in Astrophysics
-
-#### Abstract
-This document explores the application of evolutionary algorithms (EAs) in solving complex scheduling problems in astrophysics. Specifically, it discusses how EAs can efficiently schedule the target observations of telescopes, both ground-based observatories and space-based telescopes. The paper provides insights into candidate solutions, fitness functions, and the strengths and weaknesses of this approach.
-
-#### Directory Structure
-- [Applications of Evolutionary Algorithms in Astrophysics.docx](./Applications%20of%20Evolutionary%20Algorithms%20in%20Astrophysics.docx): The full essay in Word document format.
-- [README.md](./README.md): This README file.
+1. [Algorithmic Trading Optimization](#algorithmic-trading-optimization)
+2. [Astrophysics](#astrophysics)
 
 ## Algorithmic Trading Optimization
 
@@ -32,6 +21,17 @@ This project focuses on optimizing trading strategies based on technical analysi
 - [Unilever.csv](./Algorithmic_Trading_Strategy_Optimisation/Unilever.csv): A CSV file containing trading-related data.
 - [unilever_orignial.csv](./Algorithmic_Trading_Strategy_Optimisation/unilever_orignial.csv): A CSV file containing the original daily closing price data.
 - [README.md](./Algorithmic_Trading_Strategy_Optimisation/README.md): README file for the algorithmic trading optimization project.
+
+## Astrophysics
+
+### Applications of Evolutionary Algorithms in Astrophysics
+
+#### Abstract
+This document explores the application of evolutionary algorithms (EAs) in solving complex scheduling problems in astrophysics. Specifically, it discusses how EAs can efficiently schedule the target observations of telescopes, both ground-based observatories and space-based telescopes. The paper provides insights into candidate solutions, fitness functions, and the strengths and weaknesses of this approach.
+
+#### Directory Structure
+- [Applications of Evolutionary Algorithms in Astrophysics.docx](./Applications%20of%20Evolutionary%20Algorithms%20in%20Astrophysics.docx): The full essay in Word document format.
+- [README.md](./README.md): This README file.
 
 ## Getting Started
 To explore each project, follow the instructions in their respective directories.
